@@ -1,4 +1,4 @@
-# Seq2Sef-for-Handwriting-recovery
+# Seq2Seq-for-Handwriting-recovery
 
 Besma Rabhi National Engineering School of Tunis: Ecole Nationale d'Ingenieurs de Tunis. TUNISIA
 # Abstract
