@@ -10,3 +10,13 @@ Online signals are rich in dynamic features such as trajectory chronology, veloc
 
 If you find this article useful in your research, please consider citing:
 Rabhi, Besma; Elbaati, Abdelkarim; Boubaker, Houcine; Alimi, Adel M. (2020): Temporal Order and Pen Velocity Recovery for Character Handwriting Based on Sequence to Sequence Gated Recurrent Unit Model. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.13072193.v1 
+
+# Notes
+Inside test folder, you find the .ipynb file to test the framework based on the models puted on the folder model.
+Just you change the adresse files. For example the variable Save_folder contains the folder of the predicted signal.
+the variable model_train_path contains the trained model
+the offline handwriting to be recovered must be on the folder redraw.
+
+# Models
+you can access to our drive that contain the third model which is a big file
+Link : https://drive.google.com/file/d/1Pv1Mp3-N-zmV3cmAXWBACQnkhk2fB3pu/view?usp=sharing&fbclid=IwAR3LAltSY31gkojeRANXqy3_e4Xt9e4YLRaeN17PVLwaTrsJk8jMg3LPfxk
