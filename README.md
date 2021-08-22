@@ -18,5 +18,5 @@ the variable model_train_path contains the trained model
 the offline handwriting to be recovered must be on the folder redraw.
 
 # Models
-you can access to our drive that contain the third model which is a big file
+you can access to our drive that contain the third model which is a big file.
 Link : https://drive.google.com/file/d/1Pv1Mp3-N-zmV3cmAXWBACQnkhk2fB3pu/view?usp=sharing&fbclid=IwAR3LAltSY31gkojeRANXqy3_e4Xt9e4YLRaeN17PVLwaTrsJk8jMg3LPfxk
